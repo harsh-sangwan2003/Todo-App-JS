@@ -29,7 +29,7 @@ Please include the following cdn link tags before testing the website
 
 ## Usage
 
-This project helps in maintaining daily tasks.
+Organize your day with ease. Add, edit, and delete tasks. Built with HTML, CSS, and JavaScript for seamless productivity.
 
 Click on
 
